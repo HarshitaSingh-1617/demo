@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin: 0;
+
+}
+
+.header{
+    color: rgb(11, 11, 11);
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    height: 10vh;
+    background-color: aqua;
+    justify-items: center;
+    align-items: center;
+
+
+}
+
+.header3{
+    display: flex;
+    gap: 5rem;
+}
+
+.header2{
+    display: flex;
+}
